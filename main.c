@@ -1,3 +1,4 @@
+// 基礎プログラミングII 第3回 Scrummyプロジェクト
 #include <SchooMyUtilities.h>
 #include <TM1637Display.h>
 SchooMyUtilities scmUtils = SchooMyUtilities();
